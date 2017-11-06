@@ -1,1 +1,3 @@
-# Stock_List
+TSLA
+AMD
+ONVO
