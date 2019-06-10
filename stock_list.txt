@@ -1,2 +1,5 @@
 ONVO
 LIT
+GD
+LMT
+JMIA
